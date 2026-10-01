@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Programme principal/Programme principal.csproj" />
+  <Project Path="TD5Heritage/TD5Heritage.csproj" />
+</Solution>
